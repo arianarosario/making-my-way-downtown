@@ -61,3 +61,5 @@ def funWithAnagrams(arr):
 
 arr = ["a", "b", "c", "d", "e"]
 funWithAnagrams(arr)
+
+# solved
