@@ -46,3 +46,6 @@ if isHappy(n):
     print("HAPPY")
 else:
     print("NAH")
+
+# code working
+# passed all test cases
