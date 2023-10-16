@@ -68,6 +68,9 @@ if isValid(arr):
 else:
     print("nope")
 
+## missing some edge cases
+# need to implement a stack
+
 
 """ 
       # checking if the first elem is a closer
